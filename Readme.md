@@ -1,3 +1,3 @@
 # Demo
 
-Descriere
+Descriere sumara!
